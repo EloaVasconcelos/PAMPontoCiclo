@@ -192,18 +192,29 @@
 
 ##  Intent Explicíta
 > Foram adicionadas 2 telas
+> 
 > 1 de login, onde o usuário irá digitar seu nomes e outras informações
+> 
 > ! Se o nome não for preechido a próxima tela não é chamada
+> 
 > Quando o usuário DIGITAR seu nome (e outros campos)
+> 
 > A proxima tela irá aparecer com a seguinte mensagem "Bem vindo ao Ponto Ciclo, nome do suário"
-> E o botão para realmente entrar no app 
+> 
+> E o botão para realmente entrar no app
+> 
 > A Proxima tela carrega somente o nome digitado pelo usuário na EditTextNome
 
 ##  Intent Implícitas
 > Na 7 (ultima tela do app)
+> 
 > Um botão (Abrir Mapa) foi inserido
+> 
 > Onde não é específicado aonde deverá abrir a localização
-> Declaram apenas a ação 
+>
+
+> Declaram apenas a ação
+> 
 > O botão levará o usuário para a "Cooperativa de Reciclagem Crescer"
 > 
 
