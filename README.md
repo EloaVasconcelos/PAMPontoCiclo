@@ -7,7 +7,7 @@
 > 
 > O novo link do repositório do projeto foi colocado novamente na atividade.
 > 
-> # appPontoCiclo
+
 
 
 # Nome do Aplicativo: PontoCiclo
