@@ -1,7 +1,13 @@
 # PAMPontoCiclo
 
-
-# appPontoCiclo
+# # **Entrega da Atividade **#_ 
+> A atividade do dia 10/08 foi entregue, contendo descrição do app e o respectivo diagrama.
+ ![Att dia 1008 entregue ](https://github.com/EloaVasconcelos/NOVO/assets/127448572/66086696-a721-4c76-9e58-06b001434948)
+> A atividade foi desentregue, pois o projeto foi realocado em outro repositório.
+> 
+> O novo link do repositório de projeto foi colocado novamente na atividade.
+> 
+> # appPontoCiclo
 
 
 # Nome do Aplicativo: PontoCiclo
